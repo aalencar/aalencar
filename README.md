@@ -1,6 +1,6 @@
 ### Hello there, I'm Alex 👋
 
-Brazilian Frontend Developer based in Prague, Czech Republic.
+Brazilian Frontend Developer with 5 years of experience, and I live in Prague, Czech Republic.
 
 - 🔭 Working on a workforce management app for [Kendaxa](https://kendaxa.com/en)
 - 🐶 Pet project: [Flashcard-based tool](https://github.com/aalencar/proc-ne) to help me learn **Czech**
