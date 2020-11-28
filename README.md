@@ -6,5 +6,5 @@ Challenge-driven Frontend Developer with 5 years of experience with Angular, Rea
 - 🌱 I’m currently learning **GraphQL**
 - 🐶 Pet project: [Flashcard-based tool](https://github.com/aalencar/proc-ne) to help me learn **Czech**
 - 📫 How to reach me: alencardev@gmail.com
-- [DEV.to](https://dev.to/aalencar)
-- [CodePen](https://codepen.io/aalencar)
+- ✏ Check some of my posts at [DEV.to](https://dev.to/aalencar)
+- 🎨 I usually play around at [CodePen](https://codepen.io/aalencar)
