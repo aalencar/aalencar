@@ -1,6 +1,6 @@
 ### Hello there, I'm Alex 👋
 
-Challenge-driven Frontend Developer with 10 years of experience with Angular, React, and Node.js.
+Challenge-driven Frontend Developer.
 
 Some projects I worked on:
 - 🔨 Worked on [Equals](https://www.equals.com.br/en/)
