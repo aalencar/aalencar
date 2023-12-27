@@ -16,11 +16,12 @@ Proactive, challenge-driven Frontend Developer.
   	
 
 Some projects I worked on:
+- 🔨 [People Analytics](https://www.workday.com/en-hk/products/human-capital-management/analytics-reporting.html) - Current
 - 🔨 [Document.ai](https://h2o.ai/platform/ai-cloud/make/document-ai/)
 - 🔨 [Wave](https://wave.h2o.ai/)
 - 🔨 [Kendaxa](https://kendaxa.com/en/)
 - 🔨 [Equals](https://www.equals.com.br/en/)
 
 
-- 📫 How to reach me: aalencarvilela@gmail.com or [twitter](https://twitter.com/aalencarv)
+- 📫 How to reach me: aalencarvilela@gmail.com
 
