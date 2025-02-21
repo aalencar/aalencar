@@ -23,5 +23,5 @@ Some projects I worked on:
 - 🔨 [Equals](https://www.equals.com.br/en/)
 
 
-- 📫 How to reach me: aalencarvilela@gmail.com
+- 📫 How to reach me: alencardev@gmail.com
 
